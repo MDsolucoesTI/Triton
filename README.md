@@ -17,19 +17,19 @@ Autores: **Denny Paulista Azevedo Filho**
 
 ### Tela Principal
 
-![Tela Principal](https://md.dev.br/img/sisdesk/TelaPriTriton.png)
+![Tela Principal](https://mdcursos.dev.br/img/sisdesk/TelaPriTriton.png)
 
 ### Tela de Registro de Aluguel
 
-![Tela da Aluguel](https://md.dev.br/img/sisdesk/TelaEfetuarAluguel.png)
+![Tela da Aluguel](https://mdcursos.dev.br/img/sisdesk/TelaEfetuarAluguel.png)
 
 ### Tela de Registro de Pessoas (Locador e Locatário)
 
-![Tela da Pessoas](https://md.dev.br/img/sisdesk/TelaPessoasTriton.png)
+![Tela da Pessoas](https://mdcursos.dev.br/img/sisdesk/TelaPessoasTriton.png)
 
 ### Tela de Vendas
 
-![Tela da Fechamento](https://md.dev.br/img/sisdesk/TelaVendasTriton.png)
+![Tela da Fechamento](https://mdcursos.dev.br/img/sisdesk/TelaVendasTriton.png)
 
 ### Principais funcionalidades do sistema
 
